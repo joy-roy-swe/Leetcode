@@ -25,8 +25,6 @@ public:
             curr = curr->next;
         }
     }
-    
-    // Main function to merge two linked lists
     ListNode* mergeInBetween(ListNode* list1, int a, int b, ListNode* list2) {
         // Convert list1 to vector
         linkedListToVect(list1);
