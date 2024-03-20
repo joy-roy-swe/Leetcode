@@ -1,6 +1,4 @@
 #include <iostream>
-#include <vector>
-
 using namespace std;
 
 // Definition for singly-linked list.
@@ -14,49 +12,33 @@ struct ListNode {
 
 class Solution {
 public:
-    vector<int> templist;
-    vector<int> templist2;
-    
-    // Helper function to convert linked list to vector
-    void linkedListToVect(ListNode* list1) {
-        ListNode* curr = list1;
-        while (curr != nullptr) {
-            templist.emplace_back(curr->val);
-            curr = curr->next;
-        }
-    }
     ListNode* mergeInBetween(ListNode* list1, int a, int b, ListNode* list2) {
-        // Convert list1 to vector
-        linkedListToVect(list1);
-        int size = templist.size();
-        int idx;
-        
-        // Copy elements from list1 to templist2 before index 'a'
-        for (idx = 0; idx < a; ++idx) {
-            templist2.emplace_back(templist[idx]);
+        // Initialize a counter to keep track of the position in the list
+        int counter = 0;
+        // Initialize a pointer 'start' to traverse to the node just before index 'a'
+        ListNode* start = list1;
+        // Move 'start' pointer to the node just before index 'a'
+        while (counter < a - 1) {
+            start = start->next;
+            counter++;
         }
-
-        // Append elements from list2 to templist2
-        ListNode* curr = list2;
-        while (curr != nullptr) {
-            templist2.emplace_back(curr->val);
-            curr = curr->next;
+        // Initialize a pointer 'end' to traverse to the node at index 'b'
+        ListNode* end = start;
+        // Move 'end' pointer to the node at index 'b'
+        while (counter <= b) {
+            end = end->next;
+            counter++;
         }
-
-        // Copy elements from list1 to templist2 after index 'b'
-        for (idx = b + 1; idx < size; ++idx) {
-            templist2.emplace_back(templist[idx]);
+        // Connect the node before 'a' to the head of list2
+        start->next = list2;
+        // Traverse to the end of list2
+        while (list2->next) {
+            list2 = list2->next;
         }
-
-        // Create a new linked list from templist2
-        ListNode* dummy = new ListNode(0); // Dummy head
-        ListNode* tail = dummy;
-        for (int val : templist2) {
-            tail->next = new ListNode(val);
-            tail = tail->next;
-        }
-
-        return dummy->next; // Return the head of the merged list
+        // Connect the end of list2 to the node at index 'b' (end)
+        list2->next = end;
+        // Return the modified list1
+        return list1;
     }
 };
 
