@@ -5,6 +5,35 @@
 using namespace std;
 
 /*
+Here's the optimized approach:
+
+1. Iterate through the array and move each positive integer to its correct index (i.e., nums[i] should be at index i+1).
+2. After rearranging the array, traverse it again to find the first index i where nums[i] != i+1. Return i+1 as the smallest missing positive integer.
+3. If all integers are in their correct positions, return n+1.
+
+This approach achieves O(1) space complexity as it modifies the input array in-place without using any extra space.
+*/
+
+
+class Solution {
+public:
+    int firstMissingPositive(vector<int>& nums) {
+        int n = nums.size();
+        for (int i = 0; i < n; ++i) {
+            while (nums[i] > 0 && nums[i] <= n && nums[nums[i] - 1] != nums[i]) {
+                swap(nums[i], nums[nums[i] - 1]);
+            }
+        }
+        for (int i = 0; i < n; ++i) {
+            if (nums[i] != i + 1) {
+                return i + 1;
+            }
+        }
+        return n + 1;
+    }
+};
+
+/*
 Problem Statement:
 Given an unsorted integer array, find the smallest missing positive integer.
 
@@ -21,6 +50,7 @@ Time Complexity: O(nlogn), where n is the size of the input array due to sorting
 Space Complexity: O(1).
 */
 
+/*
 class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
@@ -39,6 +69,8 @@ public:
         return positive;
     }
 };
+*/
+
 
 int main() {
     // Test the implementation
