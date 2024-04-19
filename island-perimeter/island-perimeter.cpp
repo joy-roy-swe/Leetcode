@@ -11,13 +11,13 @@ using namespace std;
 
 class Solution {
 public:
-    unordered_set<int> visited;
+    //unordered_set<int> visited;
 
     int islandPerimeter(vector<vector<int>>& grid) {
         int totalPerimeter = 0;
         for(int row = 0; row < grid.size(); ++row) {
             for(int col = 0; col < grid[0].size(); ++col) {
-                if(grid[row][col] && visited.find(row * grid[0].size() + col) == visited.end()) {
+                if(grid[row][col]) {
                     totalPerimeter += dfs(grid, row, col);
                 }
             }
@@ -30,11 +30,11 @@ public:
             return 1;
         }
         
-        if(visited.find(row * grid[0].size() + col) != visited.end()) {
+        if(grid[row][col]==-1) {
             return 0;
         }
 
-        visited.insert(row * grid[0].size() + col);
+        grid[row][col] = -1;
 
         int perim = dfs(grid, row, col + 1);
         perim += dfs(grid, row + 1, col);
