@@ -30,4 +30,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/joy-roy-swe/Leetcode/tree/master/0100-same-tree) |
+## Array
+|  |
+| ------- |
+| [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/joy-roy-swe/Leetcode/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
 <!---LeetCode Topics End-->
