@@ -34,4 +34,20 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/joy-roy-swe/Leetcode/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/joy-roy-swe/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/joy-roy-swe/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/joy-roy-swe/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/joy-roy-swe/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
