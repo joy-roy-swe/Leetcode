@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/joy-roy-swe/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/joy-roy-swe/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0189-rotate-array) |
 ## Recursion
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/joy-roy-swe/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/joy-roy-swe/Leetcode/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
@@ -62,4 +64,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/joy-roy-swe/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
