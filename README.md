@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/joy-roy-swe/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/joy-roy-swe/Leetcode/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/joy-roy-swe/Leetcode/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
@@ -68,4 +69,9 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/joy-roy-swe/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/joy-roy-swe/Leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/joy-roy-swe/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
