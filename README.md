@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/joy-roy-swe/Leetcode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/joy-roy-swe/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/joy-roy-swe/Leetcode/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0189-rotate-array) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/joy-roy-swe/Leetcode/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -83,4 +85,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/joy-roy-swe/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/joy-roy-swe/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
