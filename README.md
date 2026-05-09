@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/joy-roy-swe/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/joy-roy-swe/Leetcode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/joy-roy-swe/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/joy-roy-swe/Leetcode/tree/master/0054-spiral-matrix) |
@@ -89,4 +90,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/joy-roy-swe/Leetcode/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/joy-roy-swe/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
