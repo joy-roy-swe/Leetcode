@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/joy-roy-swe/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/joy-roy-swe/Leetcode/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/joy-roy-swe/Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/joy-roy-swe/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/joy-roy-swe/Leetcode/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/joy-roy-swe/Leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/joy-roy-swe/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/joy-roy-swe/Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
