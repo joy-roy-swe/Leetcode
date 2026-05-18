@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/joy-roy-swe/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/joy-roy-swe/Leetcode/tree/master/0054-spiral-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/joy-roy-swe/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/joy-roy-swe/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/joy-roy-swe/Leetcode/tree/master/0283-move-zeroes) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/joy-roy-swe/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/joy-roy-swe/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
