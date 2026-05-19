@@ -3,17 +3,19 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        # Normalize k in case it's >= len(nums)
-        k = k%len(nums)
+        temp_list = []
+        if len(nums)<k:
+            k = k%len(nums)
 
-        if len(nums) == 0 or k == 0:
+        if not k or len(nums) == 1:
             return
         
-        self.helper(nums, 0, len(nums)-1)
-        self.helper(nums, 0, k-1)
-        self.helper(nums, k, len(nums)-1)
+        for num in nums[-k:]:
+            temp_list.append(num)
+        left = len(nums)-k
 
-    def helper(self, nums, start, end):
-        while start<end:
-            nums[start], nums[end] = nums[end], nums[start]
-            start, end = start+1, end-1 
+        for num in nums[:left]:
+            temp_list.append(num)
+            
+        for idx in range(len(temp_list)):
+            nums[idx] = temp_list[idx]
