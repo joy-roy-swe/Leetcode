@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joy-roy-swe/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/joy-roy-swe/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/joy-roy-swe/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/joy-roy-swe/Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/joy-roy-swe/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -113,4 +114,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/joy-roy-swe/Leetcode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/joy-roy-swe/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
