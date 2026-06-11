@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/joy-roy-swe/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/joy-roy-swe/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/joy-roy-swe/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/joy-roy-swe/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/joy-roy-swe/Leetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joy-roy-swe/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/joy-roy-swe/Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/joy-roy-swe/Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/joy-roy-swe/Leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
