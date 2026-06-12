@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/joy-roy-swe/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/joy-roy-swe/Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/joy-roy-swe/Leetcode/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joy-roy-swe/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/joy-roy-swe/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/joy-roy-swe/Leetcode/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/joy-roy-swe/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/joy-roy-swe/Leetcode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/joy-roy-swe/Leetcode/tree/master/0392-is-subsequence) |
 ## Counting
 |  |
 | ------- |
