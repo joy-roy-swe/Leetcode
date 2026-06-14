@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/joy-roy-swe/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/joy-roy-swe/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/joy-roy-swe/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/joy-roy-swe/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/joy-roy-swe/Leetcode/tree/master/0048-rotate-image) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/joy-roy-swe/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/joy-roy-swe/Leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/joy-roy-swe/Leetcode/tree/master/0392-is-subsequence) |
 ## Counting
@@ -130,4 +132,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/joy-roy-swe/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/joy-roy-swe/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
