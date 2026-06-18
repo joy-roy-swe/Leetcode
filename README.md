@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/joy-roy-swe/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/joy-roy-swe/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0189-rotate-array) |
+| [0843-guess-the-word](https://github.com/joy-roy-swe/Leetcode/tree/master/0843-guess-the-word) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/joy-roy-swe/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Recursion
 |  |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/joy-roy-swe/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/joy-roy-swe/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/joy-roy-swe/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0843-guess-the-word](https://github.com/joy-roy-swe/Leetcode/tree/master/0843-guess-the-word) |
 | [0977-squares-of-a-sorted-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/joy-roy-swe/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/joy-roy-swe/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/joy-roy-swe/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/joy-roy-swe/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/joy-roy-swe/Leetcode/tree/master/0392-is-subsequence) |
+| [0843-guess-the-word](https://github.com/joy-roy-swe/Leetcode/tree/master/0843-guess-the-word) |
 ## Counting
 |  |
 | ------- |
@@ -139,4 +142,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/joy-roy-swe/Leetcode/tree/master/0014-longest-common-prefix) |
+## Interactive
+|  |
+| ------- |
+| [0843-guess-the-word](https://github.com/joy-roy-swe/Leetcode/tree/master/0843-guess-the-word) |
+## Game Theory
+|  |
+| ------- |
+| [0843-guess-the-word](https://github.com/joy-roy-swe/Leetcode/tree/master/0843-guess-the-word) |
 <!---LeetCode Topics End-->
