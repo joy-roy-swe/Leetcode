@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/joy-roy-swe/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/joy-roy-swe/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/joy-roy-swe/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0706-design-hashmap](https://github.com/joy-roy-swe/Leetcode/tree/master/0706-design-hashmap) |
 | [0843-guess-the-word](https://github.com/joy-roy-swe/Leetcode/tree/master/0843-guess-the-word) |
 | [0977-squares-of-a-sorted-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/joy-roy-swe/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/joy-roy-swe/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0706-design-hashmap](https://github.com/joy-roy-swe/Leetcode/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/joy-roy-swe/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/joy-roy-swe/Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/joy-roy-swe/Leetcode/tree/master/0169-majority-element) |
+| [0706-design-hashmap](https://github.com/joy-roy-swe/Leetcode/tree/master/0706-design-hashmap) |
 ## String
 |  |
 | ------- |
@@ -150,4 +153,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0843-guess-the-word](https://github.com/joy-roy-swe/Leetcode/tree/master/0843-guess-the-word) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/joy-roy-swe/Leetcode/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/joy-roy-swe/Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
