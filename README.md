@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/joy-roy-swe/Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/joy-roy-swe/Leetcode/tree/master/0169-majority-element) |
 | [0706-design-hashmap](https://github.com/joy-roy-swe/Leetcode/tree/master/0706-design-hashmap) |
+| [1189-maximum-number-of-balloons](https://github.com/joy-roy-swe/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
@@ -133,10 +134,12 @@ Collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/joy-roy-swe/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/joy-roy-swe/Leetcode/tree/master/0392-is-subsequence) |
 | [0843-guess-the-word](https://github.com/joy-roy-swe/Leetcode/tree/master/0843-guess-the-word) |
+| [1189-maximum-number-of-balloons](https://github.com/joy-roy-swe/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/joy-roy-swe/Leetcode/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/joy-roy-swe/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Prefix Sum
 |  |
 | ------- |
