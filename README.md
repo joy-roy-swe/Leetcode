@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/joy-roy-swe/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0189-rotate-array) |
 | [0843-guess-the-word](https://github.com/joy-roy-swe/Leetcode/tree/master/0843-guess-the-word) |
+| [1512-number-of-good-pairs](https://github.com/joy-roy-swe/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/joy-roy-swe/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Recursion
 |  |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0843-guess-the-word](https://github.com/joy-roy-swe/Leetcode/tree/master/0843-guess-the-word) |
 | [0977-squares-of-a-sorted-array](https://github.com/joy-roy-swe/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/joy-roy-swe/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1512-number-of-good-pairs](https://github.com/joy-roy-swe/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/joy-roy-swe/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/joy-roy-swe/Leetcode/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
 ## Linked List
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/joy-roy-swe/Leetcode/tree/master/0169-majority-element) |
 | [0706-design-hashmap](https://github.com/joy-roy-swe/Leetcode/tree/master/0706-design-hashmap) |
 | [1189-maximum-number-of-balloons](https://github.com/joy-roy-swe/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/joy-roy-swe/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -140,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/joy-roy-swe/Leetcode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/joy-roy-swe/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/joy-roy-swe/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
