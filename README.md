@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/joy-roy-swe/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/joy-roy-swe/Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/joy-roy-swe/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/joy-roy-swe/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0706-design-hashmap](https://github.com/joy-roy-swe/Leetcode/tree/master/0706-design-hashmap) |
 | [1189-maximum-number-of-balloons](https://github.com/joy-roy-swe/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/joy-roy-swe/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/joy-roy-swe/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/joy-roy-swe/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/joy-roy-swe/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/joy-roy-swe/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/joy-roy-swe/Leetcode/tree/master/0392-is-subsequence) |
 | [0843-guess-the-word](https://github.com/joy-roy-swe/Leetcode/tree/master/0843-guess-the-word) |
 | [1189-maximum-number-of-balloons](https://github.com/joy-roy-swe/Leetcode/tree/master/1189-maximum-number-of-balloons) |
